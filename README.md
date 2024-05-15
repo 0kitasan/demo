@@ -8,3 +8,5 @@ Here is a demonstration video:
 </video>
 
 ![demo_img](https://0kitasan.github.io/images/me.jpeg)
+
+<img src="demo.jpg" alt="Demo Image" width="600">
