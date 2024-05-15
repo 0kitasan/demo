@@ -30,14 +30,8 @@
 
 <details>
   <summary>Click to view the video</summary>
-
-  <video width="600" controls>
-      <source src="https://github.com/0kitasan/demo/assets/62045828/1161ac87-93a4-4792-ac36-0484ebcc419e" type="video/mp4">
-  </video>
-
-  <video height="600" controls>
-      <source src="https://github.com/0kitasan/demo/assets/62045828/8ce638a8-ca06-4461-af30-9338d5c1cee5" type="video/mp4">
-  </video>
+  [Download the video](https://github.com/0kitasan/demo/assets/62045828/1161ac87-93a4-4792-ac36-0484ebcc419e)
+  [Download the video](https://github.com/0kitasan/demo/assets/62045828/8ce638a8-ca06-4461-af30-9338d5c1cee5)
 </details>
 
 ## 未来计划
@@ -63,12 +57,7 @@
 
 
 
-[Download the video](https://github.com/0kitasan/demo/assets/62045828/d660f4a4-f9a2-476c-a86e-d7e5b86e4841)
-
-
-<video height="600" controls>
-      <source src="https://github.com/0kitasan/demo/assets/62045828/8ce638a8-ca06-4461-af30-9338d5c1cee5" type="video/mp4">
-</video>
+[Test](https://github.com/0kitasan/demo/assets/62045828/d660f4a4-f9a2-476c-a86e-d7e5b86e4841)
 
 
 

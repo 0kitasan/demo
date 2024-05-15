@@ -27,3 +27,9 @@ Here is a demonstration video:
 
 [Download the video](https://github.com/0kitasan/demo/raw/master/source/video/test2.mp4)
 
+
+像这样似乎会被直接忽略：
+
+<video height="600" controls>
+      <source src="https://github.com/0kitasan/demo/assets/62045828/8ce638a8-ca06-4461-af30-9338d5c1cee5" type="video/mp4">
+</video>
