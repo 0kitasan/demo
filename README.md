@@ -14,6 +14,7 @@
 
   <video width="600" controls>
       <source src="https://github.com/0kitasan/demo/assets/62045828/d660f4a4-f9a2-476c-a86e-d7e5b86e4841" type="video/mp4">
+      [Download the video](https://github.com/0kitasan/demo/assets/62045828/d660f4a4-f9a2-476c-a86e-d7e5b86e4841)
   </video>
 
 </details>
