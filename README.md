@@ -1,5 +1,17 @@
 # 进度报告 05/16 第13周
 
+<details>
+  <summary>Click to view the video</summary>
+
+  <video width="600" controls>
+      <source src="https://github.com/0kitasan/demo/assets/62045828/d660f4a4-f9a2-476c-a86e-d7e5b86e4841" type="video/mp4">
+      
+  </video>
+  
+  [Download the video](https://github.com/0kitasan/demo/assets/62045828/d660f4a4-f9a2-476c-a86e-d7e5b86e4841)
+</details>
+
+
 ## 机械部分
 * 完成了底盘和麦轮的装配
 * 搜寻资料，想办法将舵机与手机支架相结合，有了初步的想法
@@ -14,9 +26,10 @@
 
   <video width="600" controls>
       <source src="https://github.com/0kitasan/demo/assets/62045828/d660f4a4-f9a2-476c-a86e-d7e5b86e4841" type="video/mp4">
-      [Download the video](https://github.com/0kitasan/demo/assets/62045828/d660f4a4-f9a2-476c-a86e-d7e5b86e4841)
+      
   </video>
-
+  
+  [Download the video](https://github.com/0kitasan/demo/assets/62045828/d660f4a4-f9a2-476c-a86e-d7e5b86e4841)
 </details>
 
 ## 代码部分
