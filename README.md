@@ -61,15 +61,14 @@
   * 如果延迟减小至一个可接受范围，则皆大欢喜
   * 如果延迟还是很大，考虑更换minipc
 
-https://github.com/yourusername/yourrepository/raw/master/videos/demo.mp4
+
 
 [Download the video](https://github.com/0kitasan/demo/assets/62045828/d660f4a4-f9a2-476c-a86e-d7e5b86e4841)
 
-[Download the video](https://github.com/0kitasan/demo/raw/master/source/video/test2.mp4)
 
-<details>
-  <summary>Click to view the video</summary>
+<video height="600" controls>
+      <source src="https://github.com/0kitasan/demo/assets/62045828/8ce638a8-ca06-4461-af30-9338d5c1cee5" type="video/mp4">
+</video>
 
-  
-  [Download the video](https://github.com/0kitasan/demo/raw/master/source/video/test2.mp4)
-</details>
+
+
