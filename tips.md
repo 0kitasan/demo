@@ -19,7 +19,8 @@ Here is a demonstration video:
 
 <img src="source/demo.jpg" alt="Demo Image" width="600">
 
-猜想：github特地支持对issue中的视频直接引用
+
+**猜想：github特地支持对issue中的视频直接引用**
 
 [Download the video](https://github.com/0kitasan/demo/assets/62045828/d660f4a4-f9a2-476c-a86e-d7e5b86e4841)
 
@@ -40,6 +41,16 @@ Here is a demonstration video:
 <details>
   <summary>Click to view the video</summary>
   [Download the video](https://github.com/0kitasan/demo/assets/62045828/1161ac87-93a4-4792-ac36-0484ebcc419e)
+  [Download the video](https://github.com/0kitasan/demo/assets/62045828/8ce638a8-ca06-4461-af30-9338d5c1cee5)
+</details>
+
+空个一格神奇的就可以了：
+<details>
+  <summary>Click to view the video</summary>
+
+  [Download the video](https://github.com/0kitasan/demo/assets/62045828/1161ac87-93a4-4792-ac36-0484ebcc419e)
+
+
   [Download the video](https://github.com/0kitasan/demo/assets/62045828/8ce638a8-ca06-4461-af30-9338d5c1cee5)
 </details>
 
