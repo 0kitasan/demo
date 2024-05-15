@@ -12,17 +12,9 @@
 <details>
   <summary>Click to view the video</summary>
 
-  
-  
   [Download the video](https://github.com/0kitasan/demo/assets/62045828/d660f4a4-f9a2-476c-a86e-d7e5b86e4841)
 </details>
 
-<details>
-  <summary>Click to view the video</summary>
-
-
-  [Download the video](https://github.com/0kitasan/demo/assets/62045828/d660f4a4-f9a2-476c-a86e-d7e5b86e4841)
-</details>
 
 ## 代码部分
 
@@ -30,8 +22,10 @@
 
 <details>
   <summary>Click to view the video</summary>
-  
+
   [Download the video](https://github.com/0kitasan/demo/assets/62045828/1161ac87-93a4-4792-ac36-0484ebcc419e)
+
+
   [Download the video](https://github.com/0kitasan/demo/assets/62045828/8ce638a8-ca06-4461-af30-9338d5c1cee5)
 </details>
 
