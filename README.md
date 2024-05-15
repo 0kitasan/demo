@@ -7,3 +7,4 @@ Here is a demonstration video:
   Your browser does not support the video tag.
 </video>
 
+![demo_img](https://0kitasan.github.io/images/me.jpeg)
