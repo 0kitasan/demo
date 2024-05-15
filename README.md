@@ -30,6 +30,7 @@
 
 <details>
   <summary>Click to view the video</summary>
+  
   [Download the video](https://github.com/0kitasan/demo/assets/62045828/1161ac87-93a4-4792-ac36-0484ebcc419e)
   [Download the video](https://github.com/0kitasan/demo/assets/62045828/8ce638a8-ca06-4461-af30-9338d5c1cee5)
 </details>
